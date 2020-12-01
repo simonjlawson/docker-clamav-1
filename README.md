@@ -1,4 +1,4 @@
-# docker-clamav
+# docker-clamav Forked for custom config of 100mb file limit
 ![ClamAV Logo](https://www.clamav.net/assets/clamav-trademark.png)
 
 ![ClamAV latest.stable](https://img.shields.io/badge/ClamAV-latest.stable-brightgreen.svg?style=flat-square)
